@@ -1,7 +1,4 @@
-/*	This program reads the sample text image (training data) and
-   attempts to learn the character set. It does this by extracting glyphs
-   and storing them in a database as templates. These are written to
-   a file, which is used by the simple ocr program OCR1.		*/
+
 
 #define MAX
 #include "c:\AIPCV\ch9\lib.h"
